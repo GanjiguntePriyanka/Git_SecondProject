@@ -1,6 +1,0 @@
-This is file 1 - init & first checkin
-This is second checkin - branch1
-This is second checkin - master
-Confict resolved
-c2 colors
-after merge - more colors in branch1
